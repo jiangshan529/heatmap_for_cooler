@@ -1,4 +1,4 @@
-those scripts are to plot Aggregate plot for coolpup.
+those scripts are to plot Aggregate plot for coolpup. the script for myself is in ~/script/plot_pup.sh and ~/script/plot_pup.py
 
 this code to plot 2 matrixs and its difference map
 
