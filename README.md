@@ -1,4 +1,7 @@
-those scripts are to plot Aggregate plot for coolpup. the script for myself is in ~/script/plot_pup.sh and ~/script/plot_pup.py
+those scripts are to plot Aggregate plot for coolpup. the script for myself is in ~/script/plot_pup1.sh and ~/script/plot_pup.py
+
+## usage
+# python ~/script/plot_pup1.sh cool1 cool2 /broad/boxialab/shawn/projects/J/self_data/ChIP-seq/12-22/1.mapping/HCT116_J_chip_85_87_sort_dedup_q005_peaks.narrowPeak 10-9 10-10 0.6 1.4 -0.2 0.2
 
 this code to plot 2 matrixs and its difference map
 
